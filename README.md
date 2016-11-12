@@ -7,15 +7,21 @@ Simple message bar.
 Standard Style.
 
 ![Success Standard](success_standard.jpg)
+
 ![Info Standard](info_standard.jpg)
+
 ![Warning Standard](warning_standard.jpg)
+
 ![Error Standard](error_standard.jpg)
 
 Emoji Style.
 
 ![Success Emoji](success_emoji.jpg)
+
 ![Info Emoji](info_emoji.jpg)
+
 ![Warning Emoji](warning_emoji.jpg)
+
 ![Error Emoji](error_emoji.jpg)
 
 ## Installation
